@@ -6,6 +6,8 @@ A curated list of 600+ open source projects across categories like productivity,
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
+**Want to add a project?** See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Categories
 
 - [Developer Tools](#developer-tools) — 120
