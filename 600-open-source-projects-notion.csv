@@ -1,0 +1,601 @@
+﻿#,Project,Category,Description,GitHub,Status,Source
+1,Cal.com,Productivity / Collaboration,Open-source scheduling platform,https://github.com/calcom/cal.com,To Review,Curated GitHub list
+2,AppFlowy,Productivity / Collaboration,Open-source Notion alternative,https://github.com/AppFlowy-IO/AppFlowy,To Review,Curated GitHub list
+3,Outline,Productivity / Collaboration,Knowledge base and team wiki,https://github.com/outline/outline,To Review,Curated GitHub list
+4,Plane,Developer Tools,Open-source Jira alternative,https://github.com/makeplane/plane,To Review,Curated GitHub list
+5,Penpot,Design / Frontend,Open-source design and prototyping tool,https://github.com/penpot/penpot,To Review,Curated GitHub list
+6,NocoDB,AI / ML,Open-source Airtable alternative,https://github.com/nocodb/nocodb,To Review,Curated GitHub list
+7,Baserow,Data / Analytics,No-code database platform,https://github.com/bram2w/baserow,To Review,Curated GitHub list
+8,Supabase,Developer Tools,Open-source Firebase alternative,https://github.com/supabase/supabase,To Review,Curated GitHub list
+9,Appwrite,Data / Analytics,Backend platform for web and mobile apps,https://github.com/appwrite/appwrite,To Review,Curated GitHub list
+10,PocketBase,Self-hosted / Personal,Lightweight backend in one file,https://github.com/pocketbase/pocketbase,To Review,Curated GitHub list
+11,Directus,Data / Analytics,Headless CMS for SQL databases,https://github.com/directus/directus,To Review,Curated GitHub list
+12,Strapi,Developer Tools,Open-source headless CMS,https://github.com/strapi/strapi,To Review,Curated GitHub list
+13,Payload CMS,Developer Tools,Developer-first headless CMS,https://github.com/payloadcms/payload,To Review,Curated GitHub list
+14,Ghost,Developer Tools,Open-source publishing and newsletter platform,https://github.com/TryGhost/Ghost,To Review,Curated GitHub list
+15,Listmonk,AI / ML,Self-hosted newsletter and mailing list manager,https://github.com/knadh/listmonk,To Review,Curated GitHub list
+16,Mautic,Business / Commerce,Open-source marketing automation,https://github.com/mautic/mautic,To Review,Curated GitHub list
+17,Chatwoot,Productivity / Collaboration,Open-source customer support platform,https://github.com/chatwoot/chatwoot,To Review,Curated GitHub list
+18,Zammad,Business / Commerce,Open-source helpdesk system,https://github.com/zammad/zammad,To Review,Curated GitHub list
+19,FreeScout,Business / Commerce,Lightweight helpdesk and shared inbox,https://github.com/freescout-help-desk/freescout,To Review,Curated GitHub list
+20,Papercups,Productivity / Collaboration,Open-source live chat platform,https://github.com/papercups-io/papercups,To Review,Curated GitHub list
+21,Fider,Business / Commerce,Open-source feedback and feature voting tool,https://github.com/getfider/fider,To Review,Curated GitHub list
+22,PostHog,Data / Analytics,Open-source product analytics,https://github.com/PostHog/posthog,To Review,Curated GitHub list
+23,Plausible Analytics,Data / Analytics,Privacy-friendly Google Analytics alternative,https://github.com/plausible/analytics,To Review,Curated GitHub list
+24,Umami,Data / Analytics,Simple privacy-focused analytics,https://github.com/umami-software/umami,To Review,Curated GitHub list
+25,Matomo,Data / Analytics,Full open-source web analytics platform,https://github.com/matomo-org/matomo,To Review,Curated GitHub list
+26,Ackee,Data / Analytics,Self-hosted privacy-friendly analytics,https://github.com/electerious/Ackee,To Review,Curated GitHub list
+27,Rybbit,Data / Analytics,Privacy-friendly Google Analytics alternative,https://github.com/rybbit-io/rybbit,To Review,Curated GitHub list
+28,Metabase,Developer Tools,Open-source business intelligence,https://github.com/metabase/metabase,To Review,Curated GitHub list
+29,Apache Superset,Data / Analytics,Data visualization and BI platform,https://github.com/apache/superset,To Review,Curated GitHub list
+30,Redash,Data / Analytics,Query and dashboard tool,https://github.com/getredash/redash,To Review,Curated GitHub list
+31,Grafana,Data / Analytics,Monitoring and observability dashboards,https://github.com/grafana/grafana,To Review,Curated GitHub list
+32,Prometheus,DevOps / Infrastructure,Monitoring and alerting toolkit,https://github.com/prometheus/prometheus,To Review,Curated GitHub list
+33,Uptime Kuma,Design / Frontend,Self-hosted uptime monitoring,https://github.com/louislam/uptime-kuma,To Review,Curated GitHub list
+34,Gatus,Data / Analytics,Automated service health dashboard,https://github.com/TwiN/gatus,To Review,Curated GitHub list
+35,Sentry,DevOps / Infrastructure,Error tracking and performance monitoring,https://github.com/getsentry/sentry,To Review,Curated GitHub list
+36,GlitchTip,Developer Tools,Open-source Sentry alternative,https://github.com/glitchtip/glitchtip,To Review,Curated GitHub list
+37,Novu,DevOps / Infrastructure,Open-source notification infrastructure,https://github.com/novuhq/novu,To Review,Curated GitHub list
+38,Infisical,Security / Auth,Open-source secrets management,https://github.com/Infisical/infisical,To Review,Curated GitHub list
+39,Vault,Security / Auth,Secrets and identity management,https://github.com/hashicorp/vault,To Review,Curated GitHub list
+40,Zitadel,Security / Auth,Identity and access management,https://github.com/zitadel/zitadel,To Review,Curated GitHub list
+41,Authentik,Security / Auth,Open-source identity provider and SSO,https://github.com/goauthentik/authentik,To Review,Curated GitHub list
+42,Keycloak,Security / Auth,Identity and access management,https://github.com/keycloak/keycloak,To Review,Curated GitHub list
+43,Ory Kratos,Security / Auth,Identity and user management,https://github.com/ory/kratos,To Review,Curated GitHub list
+44,Ory Hydra,DevOps / Infrastructure,OAuth2 and OpenID Connect server,https://github.com/ory/hydra,To Review,Curated GitHub list
+45,Passbolt,Security / Auth,Open-source password manager for teams,https://github.com/passbolt/passbolt_api,To Review,Curated GitHub list
+46,Bitwarden Server,Data / Analytics,Password manager backend,https://github.com/bitwarden/server,To Review,Curated GitHub list
+47,Vaultwarden,Data / Analytics,Lightweight Bitwarden-compatible server,https://github.com/dani-garcia/vaultwarden,To Review,Curated GitHub list
+48,Docmost,Productivity / Collaboration,Open-source Notion and Confluence alternative,https://github.com/docmost/docmost,To Review,Curated GitHub list
+49,Wiki.js,Productivity / Collaboration,Modern open-source wiki,https://github.com/Requarks/wiki,To Review,Curated GitHub list
+50,Docusaurus,Productivity / Collaboration,Documentation website generator,https://github.com/facebook/docusaurus,To Review,Curated GitHub list
+51,Nextra,Productivity / Collaboration,Next.js documentation framework,https://github.com/shuding/nextra,To Review,Curated GitHub list
+52,BookStack,Productivity / Collaboration,Self-hosted documentation and wiki platform,https://github.com/BookStackApp/BookStack,To Review,Curated GitHub list
+53,HedgeDoc,Productivity / Collaboration,Collaborative markdown notes,https://github.com/hedgedoc/hedgedoc,To Review,Curated GitHub list
+54,Logseq,Productivity / Collaboration,Local-first knowledge management,https://github.com/logseq/logseq,To Review,Curated GitHub list
+55,Joplin,Developer Tools,Open-source note-taking app,https://github.com/laurent22/joplin,To Review,Curated GitHub list
+56,Trilium Notes,Productivity / Collaboration,Personal knowledge base app,https://github.com/zadam/trilium,To Review,Curated GitHub list
+57,Miniflux,Self-hosted / Personal,Minimalist self-hosted RSS reader,https://github.com/miniflux/v2,To Review,Curated GitHub list
+58,FreshRSS,Self-hosted / Personal,Self-hosted RSS feed aggregator,https://github.com/FreshRSS/FreshRSS,To Review,Curated GitHub list
+59,Wallabag,Developer Tools,Save articles to read later,https://github.com/wallabag/wallabag,To Review,Curated GitHub list
+60,Linkwarden,Self-hosted / Personal,Self-hosted bookmark manager,https://github.com/linkwarden/linkwarden,To Review,Curated GitHub list
+61,Shiori,Self-hosted / Personal,Simple bookmark manager,https://github.com/go-shiori/shiori,To Review,Curated GitHub list
+62,Slash,Self-hosted / Personal,Open-source URL shortener and bookmarks,https://github.com/boojack/slash,To Review,Curated GitHub list
+63,Dub,Data / Analytics,Open-source link management platform,https://github.com/dubinc/dub,To Review,Curated GitHub list
+64,Kutt,Self-hosted / Personal,Modern URL shortener,https://github.com/thedevs-network/kutt,To Review,Curated GitHub list
+65,YOURLS,Self-hosted / Personal,Self-hosted URL shortener,https://github.com/YOURLS/YOURLS,To Review,Curated GitHub list
+66,Zipline,Self-hosted / Personal,Self-hosted file and image uploader,https://github.com/diced/zipline,To Review,Curated GitHub list
+67,Nextcloud Server,DevOps / Infrastructure,Self-hosted cloud storage and collaboration,https://github.com/nextcloud/server,To Review,Curated GitHub list
+68,OwnCloud,Self-hosted / Personal,File sync and collaboration platform,https://github.com/owncloud/core,To Review,Curated GitHub list
+69,Seafile,AI / ML,High-performance file sync and sharing,https://github.com/haiwen/seafile,To Review,Curated GitHub list
+70,Paperless-ngx,Self-hosted / Personal,Document management system,https://github.com/paperless-ngx/paperless-ngx,To Review,Curated GitHub list
+71,Stirling PDF,Self-hosted / Personal,Self-hosted PDF tools,https://github.com/Stirling-Tools/Stirling-PDF,To Review,Curated GitHub list
+72,PDF Ding,Self-hosted / Personal,"Self-hosted PDF manager, viewer, and editor",https://github.com/mrmn2/PDFDing,To Review,Curated GitHub list
+73,ConvertX,Self-hosted / Personal,Self-hosted online file converter,https://github.com/C4illin/ConvertX,To Review,Curated GitHub list
+74,PhotoPrism,Self-hosted / Personal,Self-hosted photo management,https://github.com/photoprism/photoprism,To Review,Curated GitHub list
+75,Immich,Self-hosted / Personal,Self-hosted Google Photos alternative,https://github.com/immich-app/immich,To Review,Curated GitHub list
+76,Photofield,Self-hosted / Personal,Fast self-hosted photo gallery viewer,https://github.com/SmilyOrg/photofield,To Review,Curated GitHub list
+77,Jellyfin,DevOps / Infrastructure,Open-source media server,https://github.com/jellyfin/jellyfin,To Review,Curated GitHub list
+78,Navidrome,DevOps / Infrastructure,Self-hosted music streaming server,https://github.com/navidrome/navidrome,To Review,Curated GitHub list
+79,Mealie,Self-hosted / Personal,Recipe manager and meal planner,https://github.com/mealie-recipes/mealie,To Review,Curated GitHub list
+80,Grocy,Developer Tools,Grocery and household management,https://github.com/grocy/grocy,To Review,Curated GitHub list
+81,Home Assistant,Self-hosted / Personal,Open-source home automation platform,https://github.com/home-assistant/core,To Review,Curated GitHub list
+82,Dashy,Data / Analytics,Self-hosted dashboard,https://github.com/Lissy93/dashy,To Review,Curated GitHub list
+83,Homepage,Data / Analytics,Modern self-hosted dashboard,https://github.com/gethomepage/homepage,To Review,Curated GitHub list
+84,Glance,Data / Analytics,Customizable fast self-hosted dashboard,https://github.com/glanceapp/glance,To Review,Curated GitHub list
+85,Homarr,Data / Analytics,Dashboard for self-hosted services,https://github.com/ajnart/homarr,To Review,Curated GitHub list
+86,Cosmos Cloud,DevOps / Infrastructure,Self-hosted server platform,https://github.com/azukaar/Cosmos-Server,To Review,Curated GitHub list
+87,Coolify,Data / Analytics,Open-source Heroku and Netlify alternative,https://github.com/coollabsio/coolify,To Review,Curated GitHub list
+88,Dokku,Developer Tools,Lightweight self-hosted PaaS,https://github.com/dokku/dokku,To Review,Curated GitHub list
+89,CapRover,Developer Tools,Self-hosted app deployment platform,https://github.com/caprover/caprover,To Review,Curated GitHub list
+90,Windmill,Developer Tools,Open-source platform for internal tools,https://github.com/windmill-labs/windmill,To Review,Curated GitHub list
+91,Budibase,Design / Frontend,Open-source internal tools builder,https://github.com/Budibase/budibase,To Review,Curated GitHub list
+92,ToolJet,Developer Tools,Open-source low-code internal tools,https://github.com/ToolJet/ToolJet,To Review,Curated GitHub list
+93,Appsmith,Developer Tools,Open-source internal tools platform,https://github.com/appsmithorg/appsmith,To Review,Curated GitHub list
+94,n8n,Developer Tools,Workflow automation,https://github.com/n8n-io/n8n,To Review,Curated GitHub list
+95,Activepieces,Developer Tools,Automation platform,https://github.com/activepieces/activepieces,To Review,Curated GitHub list
+96,Temporal,DevOps / Infrastructure,Workflow orchestration,https://github.com/temporalio/temporal,To Review,Curated GitHub list
+97,Airbyte,AI / ML,Data integration,https://github.com/airbytehq/airbyte,To Review,Curated GitHub list
+98,Meltano,Data / Analytics,Data pipelines,https://github.com/meltano/meltano,To Review,Curated GitHub list
+99,dbt Core,Data / Analytics,Analytics engineering,https://github.com/dbt-labs/dbt-core,To Review,Curated GitHub list
+100,Dagster,Data / Analytics,Data orchestration,https://github.com/dagster-io/dagster,To Review,Curated GitHub list
+101,Apache Airflow,AI / ML,Workflow scheduling,https://github.com/apache/airflow,To Review,Curated GitHub list
+102,Meilisearch,Data / Analytics,Search engine,https://github.com/meilisearch/meilisearch,To Review,Curated GitHub list
+103,OpenSearch,Data / Analytics,Search and analytics,https://github.com/opensearch-project/OpenSearch,To Review,Curated GitHub list
+104,Qdrant,AI / ML,Vector database,https://github.com/qdrant/qdrant,To Review,Curated GitHub list
+105,Milvus,AI / ML,Vector database,https://github.com/milvus-io/milvus,To Review,Curated GitHub list
+106,Chroma,AI / ML,AI vector database,https://github.com/chroma-core/chroma,To Review,Curated GitHub list
+107,LangChain,AI / ML,AI app framework,https://github.com/langchain-ai/langchain,To Review,Curated GitHub list
+108,LlamaIndex,AI / ML,LLM data framework,https://github.com/run-llama/llama_index,To Review,Curated GitHub list
+109,Flowise,AI / ML,Visual LLM builder,https://github.com/FlowiseAI/Flowise,To Review,Curated GitHub list
+110,Dify,AI / ML,LLM app platform,https://github.com/langgenius/dify,To Review,Curated GitHub list
+111,Open WebUI,AI / ML,ChatGPT-like UI,https://github.com/open-webui/open-webui,To Review,Curated GitHub list
+112,AnythingLLM,AI / ML,Private AI workspace,https://github.com/Mintplex-Labs/anything-llm,To Review,Curated GitHub list
+113,Ollama,AI / ML,Run LLMs locally,https://github.com/ollama/ollama,To Review,Curated GitHub list
+114,Jan,AI / ML,Local AI assistant,https://github.com/menloresearch/jan,To Review,Curated GitHub list
+115,LocalAI,AI / ML,Local OpenAI-compatible API,https://github.com/mudler/LocalAI,To Review,Curated GitHub list
+116,ComfyUI,AI / ML,AI image generation UI,https://github.com/comfyanonymous/ComfyUI,To Review,Curated GitHub list
+117,InvokeAI,AI / ML,AI image generation,https://github.com/invoke-ai/InvokeAI,To Review,Curated GitHub list
+118,TinaCMS,Developer Tools,Git-backed CMS,https://github.com/tinacms/tinacms,To Review,Curated GitHub list
+119,Keystatic,Developer Tools,Content management for codebases,https://github.com/Thinkmill/keystatic,To Review,Curated GitHub list
+120,Medusa,Developer Tools,Open-source Shopify alternative,https://github.com/medusajs/medusa,To Review,Curated GitHub list
+121,Webstudio,Developer Tools,Open-source Webflow alternative,https://github.com/webstudio-is/webstudio,To Review,Curated GitHub list
+122,Twenty,Business / Commerce,Open-source CRM,https://github.com/twentyhq/twenty,To Review,Curated GitHub list
+123,EspoCRM,Business / Commerce,Open-source CRM platform,https://github.com/espocrm/espocrm,To Review,Curated GitHub list
+124,SuiteCRM,Design / Frontend,CRM alternative to Salesforce,https://github.com/salesagility/SuiteCRM,To Review,Curated GitHub list
+125,ERPNext,Business / Commerce,Open-source ERP system,https://github.com/frappe/erpnext,To Review,Curated GitHub list
+126,Dolibarr,Design / Frontend,ERP and CRM suite,https://github.com/Dolibarr/dolibarr,To Review,Curated GitHub list
+127,Odoo,Business / Commerce,Business apps and ERP,https://github.com/odoo/odoo,To Review,Curated GitHub list
+128,Akaunting,Business / Commerce,Accounting software,https://github.com/akaunting/akaunting,To Review,Curated GitHub list
+129,Firefly III,Business / Commerce,Personal finance manager,https://github.com/firefly-iii/firefly-iii,To Review,Curated GitHub list
+130,Actual,Developer Tools,Local-first budgeting app,https://github.com/actualbudget/actual,To Review,Curated GitHub list
+131,Maybe,Business / Commerce,Personal finance and wealth app,https://github.com/maybe-finance/maybe,To Review,Curated GitHub list
+132,InvoicePlane,Business / Commerce,Invoicing app,https://github.com/InvoicePlane/InvoicePlane,To Review,Curated GitHub list
+133,Crater,Business / Commerce,Invoicing and expenses app,https://github.com/crater-invoice/crater,To Review,Curated GitHub list
+134,Kill Bill,Data / Analytics,Subscription billing platform,https://github.com/killbill/killbill,To Review,Curated GitHub list
+135,Lago,Data / Analytics,Open-source billing platform,https://github.com/getlago/lago,To Review,Curated GitHub list
+136,OpenMeter,Developer Tools,Usage metering platform,https://github.com/openmeterio/openmeter,To Review,Curated GitHub list
+137,Hyperswitch,Business / Commerce,Payment switch platform,https://github.com/juspay/hyperswitch,To Review,Curated GitHub list
+138,Saleor,Business / Commerce,Headless ecommerce platform,https://github.com/saleor/saleor,To Review,Curated GitHub list
+139,Spree Commerce,Business / Commerce,Ecommerce platform,https://github.com/spree/spree,To Review,Curated GitHub list
+140,Vendure,Business / Commerce,Headless commerce framework,https://github.com/vendure-ecommerce/vendure,To Review,Curated GitHub list
+141,Bagisto,Business / Commerce,Laravel ecommerce platform,https://github.com/bagisto/bagisto,To Review,Curated GitHub list
+142,Sylius,Business / Commerce,Ecommerce framework,https://github.com/Sylius/Sylius,To Review,Curated GitHub list
+143,PrestaShop,Business / Commerce,Ecommerce platform,https://github.com/PrestaShop/PrestaShop,To Review,Curated GitHub list
+144,OpenCart,Developer Tools,Online store platform,https://github.com/opencart/opencart,To Review,Curated GitHub list
+145,Reaction Commerce,Design / Frontend,API-first commerce platform,https://github.com/reactioncommerce/reaction,To Review,Curated GitHub list
+146,Solidus,Business / Commerce,Ecommerce platform,https://github.com/solidusio/solidus,To Review,Curated GitHub list
+147,Sharetribe,Business / Commerce,Marketplace platform,https://github.com/sharetribe/sharetribe,To Review,Curated GitHub list
+148,Cocorico,Business / Commerce,Service marketplace platform,https://github.com/Cocolabs-SAS/cocorico,To Review,Curated GitHub list
+149,OpenProject,Productivity / Collaboration,Project management platform,https://github.com/opf/openproject,To Review,Curated GitHub list
+150,Taiga,AI / ML,Agile project management,https://github.com/taigaio/taiga,To Review,Curated GitHub list
+151,Redmine,Productivity / Collaboration,Project management and issue tracking,https://github.com/redmine/redmine,To Review,Curated GitHub list
+152,Kanboard,Productivity / Collaboration,Kanban project management,https://github.com/kanboard/kanboard,To Review,Curated GitHub list
+153,Focalboard,Productivity / Collaboration,"Trello, Notion, Asana alternative",https://github.com/mattermost-community/focalboard,To Review,Curated GitHub list
+154,Planka,Productivity / Collaboration,Realtime Kanban board,https://github.com/plankanban/planka,To Review,Curated GitHub list
+155,Leantime,Productivity / Collaboration,Project management for startups,https://github.com/Leantime/leantime,To Review,Curated GitHub list
+156,Wekan,Productivity / Collaboration,Kanban board,https://github.com/wekan/wekan,To Review,Curated GitHub list
+157,Taskcafe,Productivity / Collaboration,Kanban project management,https://github.com/JordanKnott/taskcafe,To Review,Curated GitHub list
+158,Vikunja,Productivity / Collaboration,Task and project management,https://github.com/go-vikunja/vikunja,To Review,Curated GitHub list
+159,Restyaboard,Productivity / Collaboration,Trello-like kanban board,https://github.com/RestyaPlatform/board,To Review,Curated GitHub list
+160,Taskwarrior,Data / Analytics,Command-line task manager,https://github.com/GothenburgBitFactory/taskwarrior,To Review,Curated GitHub list
+161,Super Productivity,Developer Tools,Personal productivity app,https://github.com/johannesjo/super-productivity,To Review,Curated GitHub list
+162,Habitica,Data / Analytics,Gamified task manager,https://github.com/HabitRPG/habitica,To Review,Curated GitHub list
+163,Huly,Productivity / Collaboration,Project management and collaboration,https://github.com/hcengineering/platform,To Review,Curated GitHub list
+164,Mattermost,Developer Tools,Open-source Slack alternative,https://github.com/mattermost/mattermost,To Review,Curated GitHub list
+165,Rocket.Chat,Productivity / Collaboration,Team communication platform,https://github.com/RocketChat/Rocket.Chat,To Review,Curated GitHub list
+166,Zulip,Productivity / Collaboration,Team chat with topic threads,https://github.com/zulip/zulip,To Review,Curated GitHub list
+167,Element Web,Productivity / Collaboration,Matrix-based secure chat,https://github.com/element-hq/element-web,To Review,Curated GitHub list
+168,Matrix Synapse,DevOps / Infrastructure,Matrix homeserver,https://github.com/element-hq/synapse,To Review,Curated GitHub list
+169,Jitsi Meet,Productivity / Collaboration,Video conferencing platform,https://github.com/jitsi/jitsi-meet,To Review,Curated GitHub list
+170,BigBlueButton,Data / Analytics,Online learning video platform,https://github.com/bigbluebutton/bigbluebutton,To Review,Curated GitHub list
+171,MiroTalk,Productivity / Collaboration,Video calls and meetings,https://github.com/miroslavpejic85/mirotalk,To Review,Curated GitHub list
+172,LiveKit,DevOps / Infrastructure,Realtime audio/video infrastructure,https://github.com/livekit/livekit,To Review,Curated GitHub list
+173,OpenVidu,Productivity / Collaboration,Video conferencing platform,https://github.com/OpenVidu/openvidu,To Review,Curated GitHub list
+174,Nextcloud Talk,Productivity / Collaboration,Self-hosted calls and chat,https://github.com/nextcloud/spreed,To Review,Curated GitHub list
+175,SimpleX Chat,Productivity / Collaboration,Private messenger,https://github.com/simplex-chat/simplex-chat,To Review,Curated GitHub list
+176,Signal Desktop,Developer Tools,Secure messaging desktop app,https://github.com/signalapp/Signal-Desktop,To Review,Curated GitHub list
+177,Briar,Developer Tools,Secure peer-to-peer messaging,https://github.com/briar/briar,To Review,Curated GitHub list
+178,Tiledesk,Maps / Geo,Customer messaging platform,https://github.com/Tiledesk/tiledesk,To Review,Curated GitHub list
+179,Erxes,Business / Commerce,Growth marketing and support platform,https://github.com/erxes/erxes,To Review,Curated GitHub list
+180,Helpy,Business / Commerce,Customer support platform,https://github.com/helpyio/helpy,To Review,Curated GitHub list
+181,UVdesk,Business / Commerce,Helpdesk platform,https://github.com/uvdesk/community-skeleton,To Review,Curated GitHub list
+182,osTicket,Business / Commerce,Support ticket system,https://github.com/osTicket/osTicket,To Review,Curated GitHub list
+183,OTOBO,Business / Commerce,Helpdesk ticket system,https://github.com/RotherOSS/otobo,To Review,Curated GitHub list
+184,Request Tracker,Business / Commerce,Enterprise ticketing system,https://github.com/bestpractical/rt,To Review,Curated GitHub list
+185,Peppermint,Developer Tools,Ticket management system,https://github.com/Peppermint-Lab/peppermint,To Review,Curated GitHub list
+186,GitLab CE,DevOps / Infrastructure,DevOps and Git platform,https://github.com/gitlabhq/gitlabhq,To Review,Curated GitHub list
+187,Gitea,Developer Tools,Lightweight Git hosting,https://github.com/go-gitea/gitea,To Review,Curated GitHub list
+188,Forgejo,Developer Tools,Git hosting platform,https://github.com/forgejo/forgejo,To Review,Curated GitHub list
+189,Gogs,Developer Tools,Self-hosted Git service,https://github.com/gogs/gogs,To Review,Curated GitHub list
+190,Sourcegraph,Developer Tools,Code search and intelligence,https://github.com/sourcegraph/sourcegraph-public-snapshot,To Review,Curated GitHub list
+191,Woodpecker CI,DevOps / Infrastructure,CI/CD engine,https://github.com/woodpecker-ci/woodpecker,To Review,Curated GitHub list
+192,Drone CI,Developer Tools,Continuous integration platform,https://github.com/harness/drone,To Review,Curated GitHub list
+193,Jenkins,DevOps / Infrastructure,Automation server,https://github.com/jenkinsci/jenkins,To Review,Curated GitHub list
+194,Buildkite Agent,AI / ML,CI agent,https://github.com/buildkite/agent,To Review,Curated GitHub list
+195,Tekton Pipelines,Data / Analytics,Kubernetes-native CI/CD,https://github.com/tektoncd/pipeline,To Review,Curated GitHub list
+196,Argo CD,DevOps / Infrastructure,GitOps continuous delivery,https://github.com/argoproj/argo-cd,To Review,Curated GitHub list
+197,Argo Workflows,DevOps / Infrastructure,Kubernetes workflows,https://github.com/argoproj/argo-workflows,To Review,Curated GitHub list
+198,Flux CD,DevOps / Infrastructure,GitOps for Kubernetes,https://github.com/fluxcd/flux2,To Review,Curated GitHub list
+199,Harbor,AI / ML,Container registry,https://github.com/goharbor/harbor,To Review,Curated GitHub list
+200,Portainer,AI / ML,Container management UI,https://github.com/portainer/portainer,To Review,Curated GitHub list
+201,Rancher,DevOps / Infrastructure,Kubernetes management,https://github.com/rancher/rancher,To Review,Curated GitHub list
+202,Lens,DevOps / Infrastructure,Kubernetes IDE,https://github.com/lensapp/lens,To Review,Curated GitHub list
+203,K9s,AI / ML,Kubernetes terminal UI,https://github.com/derailed/k9s,To Review,Curated GitHub list
+204,Helm,DevOps / Infrastructure,Kubernetes package manager,https://github.com/helm/helm,To Review,Curated GitHub list
+205,Kustomize,DevOps / Infrastructure,Kubernetes config customization,https://github.com/kubernetes-sigs/kustomize,To Review,Curated GitHub list
+206,MinIO,DevOps / Infrastructure,Object storage server,https://github.com/minio/minio,To Review,Curated GitHub list
+207,SeaweedFS,Self-hosted / Personal,Distributed file system,https://github.com/seaweedfs/seaweedfs,To Review,Curated GitHub list
+208,Garage,DevOps / Infrastructure,Distributed object storage,https://github.com/deuxfleurs-org/garage,To Review,Curated GitHub list
+209,Ceph,DevOps / Infrastructure,Distributed storage system,https://github.com/ceph/ceph,To Review,Curated GitHub list
+210,Longhorn,DevOps / Infrastructure,Cloud-native distributed storage,https://github.com/longhorn/longhorn,To Review,Curated GitHub list
+211,OpenEBS,AI / ML,Container attached storage,https://github.com/openebs/openebs,To Review,Curated GitHub list
+212,Dragonfly,Data / Analytics,In-memory data store,https://github.com/dragonflydb/dragonfly,To Review,Curated GitHub list
+213,Valkey,Data / Analytics,Redis-compatible data store,https://github.com/valkey-io/valkey,To Review,Curated GitHub list
+214,NATS,DevOps / Infrastructure,Messaging system,https://github.com/nats-io/nats-server,To Review,Curated GitHub list
+215,RabbitMQ Server,Data / Analytics,Message broker,https://github.com/rabbitmq/rabbitmq-server,To Review,Curated GitHub list
+216,Affine,Productivity / Collaboration,Local-first Notion and Miro alternative,https://github.com/toeverything/AFFiNE,To Review,Curated GitHub list
+217,Reactive Resume,AI / ML,Free open-source resume builder,https://github.com/AmruthPillai/Reactive-Resume,To Review,Curated GitHub list
+218,Notifuse,AI / ML,Self-hosted Mailchimp and Brevo alternative,https://github.com/Notifuse/notifuse,To Review,Curated GitHub list
+219,Open Archiver,AI / ML,Self-hosted email archiving and search,https://github.com/LogicLabs-OU/OpenArchiver,To Review,Curated GitHub list
+220,useSend,Developer Tools,Open-source Resend and SendGrid alternative,https://github.com/usesend/useSend,To Review,Curated GitHub list
+221,Cloudreve,DevOps / Infrastructure,Self-hosted cloud storage with multi-cloud support,https://github.com/cloudreve/Cloudreve,To Review,Curated GitHub list
+222,LocalSend,AI / ML,AirDrop-style local file sharing,https://github.com/localsend/localsend,To Review,Curated GitHub list
+223,Transfer.zip,Data / Analytics,Self-hosted WeTransfer alternative,https://github.com/robinkarlberg/transfer.zip-web,To Review,Curated GitHub list
+224,Documenso,Developer Tools,Open-source DocuSign alternative,https://github.com/documenso/documenso,To Review,Curated GitHub list
+225,DocuSeal,Developer Tools,Open-source document signing,https://github.com/docusealco/docuseal,To Review,Curated GitHub list
+226,RSSHub,Self-hosted / Personal,Generate RSS feeds for almost anything,https://github.com/DIYgod/RSSHub,To Review,Curated GitHub list
+227,AdGuard Home,Productivity / Collaboration,Network-wide ad and tracker blocker,https://github.com/AdguardTeam/AdGuardHome,To Review,Curated GitHub list
+228,RepoFlow,DevOps / Infrastructure,Universal package registry and proxy manager,https://github.com/repoflow/repoflow,To Review,Curated GitHub list
+229,VERT,Self-hosted / Personal,Local file converter powered by WebAssembly,https://github.com/VERT-sh/VERT,To Review,Curated GitHub list
+230,Cockpit CMS,Developer Tools,Headless API-first CMS,https://github.com/Cockpit-HQ/Cockpit,To Review,Curated GitHub list
+231,Invoice Ninja,Data / Analytics,"Invoicing, billing and payments platform",https://github.com/invoiceninja/invoiceninja,To Review,Curated GitHub list
+232,Documize,Productivity / Collaboration,Lightweight documentation and knowledge base,https://github.com/documize/community,To Review,Curated GitHub list
+233,Monica,Business / Commerce,Personal CRM,https://github.com/monicahq/monica,To Review,Curated GitHub list
+234,OpenBlocks,Design / Frontend,Low-code internal tools builder,https://github.com/openblocks-dev/openblocks,To Review,Curated GitHub list
+235,Formbricks,Business / Commerce,Open-source survey and feedback platform,https://github.com/formbricks/formbricks,To Review,Curated GitHub list
+236,Browserless,Developer Tools,Headless browser automation platform,https://github.com/browserless/browserless,To Review,Curated GitHub list
+237,Crawlee,Developer Tools,Web scraping and browser automation framework,https://github.com/apify/crawlee,To Review,Curated GitHub list
+238,Playwright,Developer Tools,Browser automation and testing,https://github.com/microsoft/playwright,To Review,Curated GitHub list
+239,Cypress,Developer Tools,End-to-end testing framework,https://github.com/cypress-io/cypress,To Review,Curated GitHub list
+240,Storybook,Design / Frontend,UI component workshop,https://github.com/storybookjs/storybook,To Review,Curated GitHub list
+241,Ladle,Design / Frontend,Fast React component development tool,https://github.com/tajo/ladle,To Review,Curated GitHub list
+242,Chromatic CLI,Design / Frontend,Visual testing workflow tooling,https://github.com/chromaui/chromatic-cli,To Review,Curated GitHub list
+243,Percy CLI,Developer Tools,Visual regression testing,https://github.com/percy/cli,To Review,Curated GitHub list
+244,Backstage,Developer Tools,Developer portal platform,https://github.com/backstage/backstage,To Review,Curated GitHub list
+245,Dagger,Data / Analytics,Programmable CI/CD pipelines,https://github.com/dagger/dagger,To Review,Curated GitHub list
+246,Earthly,Design / Frontend,Build automation for CI/CD,https://github.com/earthly/earthly,To Review,Curated GitHub list
+247,Nx,Design / Frontend,Monorepo build system,https://github.com/nrwl/nx,To Review,Curated GitHub list
+248,Turborepo,Design / Frontend,High-performance build system,https://github.com/vercel/turborepo,To Review,Curated GitHub list
+249,Rush Stack,Developer Tools,Monorepo tooling,https://github.com/microsoft/rushstack,To Review,Curated GitHub list
+250,Changesets,Developer Tools,Versioning and changelog management,https://github.com/changesets/changesets,To Review,Curated GitHub list
+251,Renovate,Developer Tools,Dependency update automation,https://github.com/renovatebot/renovate,To Review,Curated GitHub list
+252,Dependabot Core,Developer Tools,Dependency update engine,https://github.com/dependabot/dependabot-core,To Review,Curated GitHub list
+253,Trivy,Data / Analytics,Vulnerability scanner,https://github.com/aquasecurity/trivy,To Review,Curated GitHub list
+254,Grype,AI / ML,Container vulnerability scanner,https://github.com/anchore/grype,To Review,Curated GitHub list
+255,Syft,Developer Tools,SBOM generator,https://github.com/anchore/syft,To Review,Curated GitHub list
+256,Semgrep,Developer Tools,Static code analysis,https://github.com/semgrep/semgrep,To Review,Curated GitHub list
+257,SonarQube Community,Developer Tools,Code quality platform,https://github.com/SonarSource/sonarqube,To Review,Curated GitHub list
+258,CodeQL,Developer Tools,Semantic code analysis,https://github.com/github/codeql,To Review,Curated GitHub list
+259,Open Policy Agent,AI / ML,Policy engine,https://github.com/open-policy-agent/opa,To Review,Curated GitHub list
+260,Kyverno,DevOps / Infrastructure,Kubernetes policy engine,https://github.com/kyverno/kyverno,To Review,Curated GitHub list
+261,Falco,DevOps / Infrastructure,Cloud-native runtime security,https://github.com/falcosecurity/falco,To Review,Curated GitHub list
+262,Wazuh,DevOps / Infrastructure,Security monitoring platform,https://github.com/wazuh/wazuh,To Review,Curated GitHub list
+263,CrowdSec,Security / Auth,Collaborative security engine,https://github.com/crowdsecurity/crowdsec,To Review,Curated GitHub list
+264,OSQuery,Data / Analytics,SQL-powered endpoint visibility,https://github.com/osquery/osquery,To Review,Curated GitHub list
+265,Suricata,Security / Auth,Network threat detection,https://github.com/OISF/suricata,To Review,Curated GitHub list
+266,Zeek,DevOps / Infrastructure,Network security monitoring,https://github.com/zeek/zeek,To Review,Curated GitHub list
+267,TheHive,Security / Auth,Security incident response platform,https://github.com/TheHive-Project/TheHive,To Review,Curated GitHub list
+268,Cortex,Developer Tools,Observable analysis engine,https://github.com/TheHive-Project/Cortex,To Review,Curated GitHub list
+269,MISP,Security / Auth,Threat intelligence sharing platform,https://github.com/MISP/MISP,To Review,Curated GitHub list
+270,OpenCTI,Security / Auth,Cyber threat intelligence platform,https://github.com/OpenCTI-Platform/opencti,To Review,Curated GitHub list
+271,GoPhish,Developer Tools,Phishing simulation framework,https://github.com/gophish/gophish,To Review,Curated GitHub list
+272,Authelia,DevOps / Infrastructure,Authentication and authorization server,https://github.com/authelia/authelia,To Review,Curated GitHub list
+273,Casdoor,Security / Auth,Identity and access management,https://github.com/casdoor/casdoor,To Review,Curated GitHub list
+274,Logto,Security / Auth,Auth0 alternative,https://github.com/logto-io/logto,To Review,Curated GitHub list
+275,SuperTokens,Security / Auth,Open-source user authentication,https://github.com/supertokens/supertokens-core,To Review,Curated GitHub list
+276,Ory Oathkeeper,DevOps / Infrastructure,Identity and access proxy,https://github.com/ory/oathkeeper,To Review,Curated GitHub list
+277,Teleport,DevOps / Infrastructure,Access platform for infrastructure,https://github.com/gravitational/teleport,To Review,Curated GitHub list
+278,NetBird,Data / Analytics,Open-source VPN management,https://github.com/netbirdio/netbird,To Review,Curated GitHub list
+279,Headscale,AI / ML,Self-hosted Tailscale control server,https://github.com/juanfont/headscale,To Review,Curated GitHub list
+280,Netmaker,Developer Tools,WireGuard network platform,https://github.com/gravitl/netmaker,To Review,Curated GitHub list
+281,Firezone,Security / Auth,Secure remote access platform,https://github.com/firezone/firezone,To Review,Curated GitHub list
+282,Outline Server,DevOps / Infrastructure,VPN server manager,https://github.com/Jigsaw-Code/outline-server,To Review,Curated GitHub list
+283,WireGuard Easy,Design / Frontend,Web UI for WireGuard,https://github.com/wg-easy/wg-easy,To Review,Curated GitHub list
+284,Pi-hole,Developer Tools,Network-wide ad blocking,https://github.com/pi-hole/pi-hole,To Review,Curated GitHub list
+285,Technitium DNS Server,DevOps / Infrastructure,Self-hosted DNS server,https://github.com/TechnitiumSoftware/DnsServer,To Review,Curated GitHub list
+286,PowerDNS,DevOps / Infrastructure,Authoritative DNS server,https://github.com/PowerDNS/pdns,To Review,Curated GitHub list
+287,CoreDNS,DevOps / Infrastructure,DNS server and service discovery,https://github.com/coredns/coredns,To Review,Curated GitHub list
+288,Caddy,DevOps / Infrastructure,Modern web server,https://github.com/caddyserver/caddy,To Review,Curated GitHub list
+289,Traefik,DevOps / Infrastructure,Cloud-native application proxy,https://github.com/traefik/traefik,To Review,Curated GitHub list
+290,Nginx Proxy Manager,Design / Frontend,Proxy manager UI,https://github.com/NginxProxyManager/nginx-proxy-manager,To Review,Curated GitHub list
+291,Envoy,DevOps / Infrastructure,Cloud-native proxy,https://github.com/envoyproxy/envoy,To Review,Curated GitHub list
+292,HAProxy,DevOps / Infrastructure,Load balancer and proxy,https://github.com/haproxy/haproxy,To Review,Curated GitHub list
+293,Kong Gateway,DevOps / Infrastructure,API gateway,https://github.com/Kong/kong,To Review,Curated GitHub list
+294,Tyk Gateway,DevOps / Infrastructure,API gateway,https://github.com/TykTechnologies/tyk,To Review,Curated GitHub list
+295,Apache APISIX,DevOps / Infrastructure,Cloud-native API gateway,https://github.com/apache/apisix,To Review,Curated GitHub list
+296,KrakenD,DevOps / Infrastructure,High-performance API gateway,https://github.com/krakendio/krakend-ce,To Review,Curated GitHub list
+297,Fusio,Developer Tools,API management platform,https://github.com/apioo/fusio,To Review,Curated GitHub list
+298,Hoppscotch,Developer Tools,Open-source API client,https://github.com/hoppscotch/hoppscotch,To Review,Curated GitHub list
+299,Insomnia,Design / Frontend,API client and design platform,https://github.com/Kong/insomnia,To Review,Curated GitHub list
+300,Bruno,Developer Tools,Offline API client,https://github.com/usebruno/bruno,To Review,Curated GitHub list
+301,Yaak,AI / ML,Desktop API client,https://github.com/mountain-loop/yaak,To Review,Curated GitHub list
+302,Firecamp,Developer Tools,API development client,https://github.com/firecamp-dev/firecamp,To Review,Curated GitHub list
+303,Mockoon,Developer Tools,API mocking tool,https://github.com/mockoon/mockoon,To Review,Curated GitHub list
+304,Prism,Developer Tools,Mock and validate APIs,https://github.com/stoplightio/prism,To Review,Curated GitHub list
+305,WireMock,Developer Tools,API mocking platform,https://github.com/wiremock/wiremock,To Review,Curated GitHub list
+306,Pact JS,Developer Tools,Contract testing framework,https://github.com/pact-foundation/pact-js,To Review,Curated GitHub list
+307,K6,Developer Tools,Load testing tool,https://github.com/grafana/k6,To Review,Curated GitHub list
+308,Locust,Developer Tools,Load testing framework,https://github.com/locustio/locust,To Review,Curated GitHub list
+309,Artillery,Developer Tools,Performance testing toolkit,https://github.com/artilleryio/artillery,To Review,Curated GitHub list
+310,JMeter,Developer Tools,Load testing tool,https://github.com/apache/jmeter,To Review,Curated GitHub list
+311,Grafana Loki,Developer Tools,Log aggregation system,https://github.com/grafana/loki,To Review,Curated GitHub list
+312,Vector,AI / ML,Observability data pipeline,https://github.com/vectordotdev/vector,To Review,Curated GitHub list
+313,Fluent Bit,Data / Analytics,Log processor and forwarder,https://github.com/fluent/fluent-bit,To Review,Curated GitHub list
+314,Fluentd,Data / Analytics,Data collector,https://github.com/fluent/fluentd,To Review,Curated GitHub list
+315,OpenTelemetry Collector,Data / Analytics,Observability data collector,https://github.com/open-telemetry/opentelemetry-collector,To Review,Curated GitHub list
+316,Jaeger,Developer Tools,Distributed tracing platform,https://github.com/jaegertracing/jaeger,To Review,Curated GitHub list
+317,SigNoz,Data / Analytics,Open-source Datadog alternative,https://github.com/SigNoz/signoz,To Review,Curated GitHub list
+318,VictoriaMetrics,Data / Analytics,Monitoring database,https://github.com/VictoriaMetrics/VictoriaMetrics,To Review,Curated GitHub list
+319,Thanos,AI / ML,Highly available Prometheus setup,https://github.com/thanos-io/thanos,To Review,Curated GitHub list
+320,Mimir,DevOps / Infrastructure,Scalable metrics storage,https://github.com/grafana/mimir,To Review,Curated GitHub list
+321,Netdata,Data / Analytics,Infrastructure monitoring,https://github.com/netdata/netdata,To Review,Curated GitHub list
+322,Checkmk,DevOps / Infrastructure,IT monitoring platform,https://github.com/Checkmk/checkmk,To Review,Curated GitHub list
+323,Zabbix,Data / Analytics,Enterprise monitoring,https://github.com/zabbix/zabbix,To Review,Curated GitHub list
+324,Icinga 2,DevOps / Infrastructure,Monitoring system,https://github.com/Icinga/icinga2,To Review,Curated GitHub list
+325,LibreNMS,DevOps / Infrastructure,Network monitoring,https://github.com/librenms/librenms,To Review,Curated GitHub list
+326,NetBox,AI / ML,Infrastructure resource modeling,https://github.com/netbox-community/netbox,To Review,Curated GitHub list
+327,phpIPAM,Developer Tools,IP address management,https://github.com/phpipam/phpipam,To Review,Curated GitHub list
+328,Nautobot,Developer Tools,Network automation platform,https://github.com/nautobot/nautobot,To Review,Curated GitHub list
+329,Ansible,Developer Tools,IT automation platform,https://github.com/ansible/ansible,To Review,Curated GitHub list
+330,Salt Project,DevOps / Infrastructure,Infrastructure automation,https://github.com/saltstack/salt,To Review,Curated GitHub list
+331,Pulumi,DevOps / Infrastructure,Infrastructure as code,https://github.com/pulumi/pulumi,To Review,Curated GitHub list
+332,Terraform,DevOps / Infrastructure,Infrastructure as code,https://github.com/hashicorp/terraform,To Review,Curated GitHub list
+333,OpenTofu,DevOps / Infrastructure,Terraform-compatible infrastructure as code,https://github.com/opentofu/opentofu,To Review,Curated GitHub list
+334,Terragrunt,DevOps / Infrastructure,Terraform workflow wrapper,https://github.com/gruntwork-io/terragrunt,To Review,Curated GitHub list
+335,Packer,Design / Frontend,Machine image builder,https://github.com/hashicorp/packer,To Review,Curated GitHub list
+336,Nomad,DevOps / Infrastructure,Workload orchestration,https://github.com/hashicorp/nomad,To Review,Curated GitHub list
+337,Consul,Developer Tools,Service discovery and mesh,https://github.com/hashicorp/consul,To Review,Curated GitHub list
+338,Etcd,Developer Tools,Distributed key-value store,https://github.com/etcd-io/etcd,To Review,Curated GitHub list
+339,Kubernetes,AI / ML,Container orchestration,https://github.com/kubernetes/kubernetes,To Review,Curated GitHub list
+340,K3s,DevOps / Infrastructure,Lightweight Kubernetes,https://github.com/k3s-io/k3s,To Review,Curated GitHub list
+341,MicroK8s,DevOps / Infrastructure,Lightweight Kubernetes distribution,https://github.com/canonical/microk8s,To Review,Curated GitHub list
+342,Kind,DevOps / Infrastructure,Run Kubernetes in Docker,https://github.com/kubernetes-sigs/kind,To Review,Curated GitHub list
+343,Minikube,DevOps / Infrastructure,Local Kubernetes,https://github.com/kubernetes/minikube,To Review,Curated GitHub list
+344,Docker Compose,AI / ML,Multi-container app runner,https://github.com/docker/compose,To Review,Curated GitHub list
+345,Podman,AI / ML,Container engine,https://github.com/containers/podman,To Review,Curated GitHub list
+346,Buildah,AI / ML,Build OCI container images,https://github.com/containers/buildah,To Review,Curated GitHub list
+347,Skopeo,AI / ML,Container image operations,https://github.com/containers/skopeo,To Review,Curated GitHub list
+348,Containerd,AI / ML,Container runtime,https://github.com/containerd/containerd,To Review,Curated GitHub list
+349,CRI-O,AI / ML,Kubernetes container runtime,https://github.com/cri-o/cri-o,To Review,Curated GitHub list
+350,WasmEdge,DevOps / Infrastructure,WebAssembly runtime,https://github.com/WasmEdge/WasmEdge,To Review,Curated GitHub list
+351,Dapr,DevOps / Infrastructure,Distributed application runtime,https://github.com/dapr/dapr,To Review,Curated GitHub list
+352,Kuma,Developer Tools,Service mesh,https://github.com/kumahq/kuma,To Review,Curated GitHub list
+353,Istio,Developer Tools,Service mesh,https://github.com/istio/istio,To Review,Curated GitHub list
+354,Linkerd2,Developer Tools,Lightweight service mesh,https://github.com/linkerd/linkerd2,To Review,Curated GitHub list
+355,Cilium,DevOps / Infrastructure,Networking and security for Kubernetes,https://github.com/cilium/cilium,To Review,Curated GitHub list
+356,Calico,DevOps / Infrastructure,Kubernetes networking and security,https://github.com/projectcalico/calico,To Review,Curated GitHub list
+357,MetalLB,DevOps / Infrastructure,Load balancer for bare metal Kubernetes,https://github.com/metallb/metallb,To Review,Curated GitHub list
+358,cert-manager,DevOps / Infrastructure,Certificate management for Kubernetes,https://github.com/cert-manager/cert-manager,To Review,Curated GitHub list
+359,ExternalDNS,DevOps / Infrastructure,DNS records from Kubernetes resources,https://github.com/kubernetes-sigs/external-dns,To Review,Curated GitHub list
+360,Rook,DevOps / Infrastructure,Cloud-native storage orchestrator,https://github.com/rook/rook,To Review,Curated GitHub list
+361,Velero,DevOps / Infrastructure,Kubernetes backup and restore,https://github.com/vmware-tanzu/velero,To Review,Curated GitHub list
+362,KubeVirt,DevOps / Infrastructure,Run virtual machines on Kubernetes,https://github.com/kubevirt/kubevirt,To Review,Curated GitHub list
+363,Knative Serving,DevOps / Infrastructure,Serverless workloads on Kubernetes,https://github.com/knative/serving,To Review,Curated GitHub list
+364,OpenFaaS,DevOps / Infrastructure,Serverless functions platform,https://github.com/openfaas/faas,To Review,Curated GitHub list
+365,Kubeless,DevOps / Infrastructure,Kubernetes-native serverless framework,https://github.com/vmware-archive/kubeless,To Review,Curated GitHub list
+366,Fission,DevOps / Infrastructure,Serverless framework for Kubernetes,https://github.com/fission/fission,To Review,Curated GitHub list
+367,Apache OpenWhisk,DevOps / Infrastructure,Serverless cloud platform,https://github.com/apache/openwhisk,To Review,Curated GitHub list
+368,Hasura GraphQL Engine,Developer Tools,Instant GraphQL APIs,https://github.com/hasura/graphql-engine,To Review,Curated GitHub list
+369,PostGraphile,Data / Analytics,GraphQL API for PostgreSQL,https://github.com/graphile/crystal,To Review,Curated GitHub list
+370,GraphQL Yoga,DevOps / Infrastructure,GraphQL server framework,https://github.com/dotansimha/graphql-yoga,To Review,Curated GitHub list
+371,Apollo Server,DevOps / Infrastructure,GraphQL server,https://github.com/apollographql/apollo-server,To Review,Curated GitHub list
+372,Mercurius,Developer Tools,GraphQL adapter for Fastify,https://github.com/mercurius-js/mercurius,To Review,Curated GitHub list
+373,Prisma,Design / Frontend,TypeScript ORM,https://github.com/prisma/prisma,To Review,Curated GitHub list
+374,Drizzle ORM,Design / Frontend,TypeScript ORM,https://github.com/drizzle-team/drizzle-orm,To Review,Curated GitHub list
+375,TypeORM,Design / Frontend,ORM for TypeScript and JavaScript,https://github.com/typeorm/typeorm,To Review,Curated GitHub list
+376,Sequelize,Developer Tools,Node.js ORM,https://github.com/sequelize/sequelize,To Review,Curated GitHub list
+377,MikroORM,Design / Frontend,TypeScript ORM,https://github.com/mikro-orm/mikro-orm,To Review,Curated GitHub list
+378,Knex,Design / Frontend,SQL query builder,https://github.com/knex/knex,To Review,Curated GitHub list
+379,Kysely,Design / Frontend,Type-safe SQL query builder,https://github.com/kysely-org/kysely,To Review,Curated GitHub list
+380,SQLAlchemy,Data / Analytics,Python SQL toolkit and ORM,https://github.com/sqlalchemy/sqlalchemy,To Review,Curated GitHub list
+381,Django,Design / Frontend,Python web framework,https://github.com/django/django,To Review,Curated GitHub list
+382,Flask,Design / Frontend,Python web framework,https://github.com/pallets/flask,To Review,Curated GitHub list
+383,FastAPI,Developer Tools,Python API framework,https://github.com/fastapi/fastapi,To Review,Curated GitHub list
+384,Starlette,Developer Tools,ASGI framework,https://github.com/encode/starlette,To Review,Curated GitHub list
+385,Litestar,Design / Frontend,Python web framework,https://github.com/litestar-org/litestar,To Review,Curated GitHub list
+386,Sanic,DevOps / Infrastructure,Async Python web server/framework,https://github.com/sanic-org/sanic,To Review,Curated GitHub list
+387,Tornado,Design / Frontend,Python web framework,https://github.com/tornadoweb/tornado,To Review,Curated GitHub list
+388,Laravel,Design / Frontend,PHP web framework,https://github.com/laravel/framework,To Review,Curated GitHub list
+389,Symfony,Design / Frontend,PHP web framework,https://github.com/symfony/symfony,To Review,Curated GitHub list
+390,CodeIgniter,Developer Tools,PHP framework,https://github.com/codeigniter4/CodeIgniter4,To Review,Curated GitHub list
+391,CakePHP,Design / Frontend,PHP web framework,https://github.com/cakephp/cakephp,To Review,Curated GitHub list
+392,Yii2,Developer Tools,PHP framework,https://github.com/yiisoft/yii2,To Review,Curated GitHub list
+393,Ruby on Rails,AI / ML,Ruby web framework,https://github.com/rails/rails,To Review,Curated GitHub list
+394,Hanami,Design / Frontend,Ruby web framework,https://github.com/hanami/hanami,To Review,Curated GitHub list
+395,Phoenix,Design / Frontend,Elixir web framework,https://github.com/phoenixframework/phoenix,To Review,Curated GitHub list
+396,NestJS,Developer Tools,Node.js backend framework,https://github.com/nestjs/nest,To Review,Curated GitHub list
+397,Express,Design / Frontend,Node.js web framework,https://github.com/expressjs/express,To Review,Curated GitHub list
+398,Fastify,Developer Tools,Fast Node.js framework,https://github.com/fastify/fastify,To Review,Curated GitHub list
+399,Hono,Design / Frontend,Small web framework,https://github.com/honojs/hono,To Review,Curated GitHub list
+400,Koa,Design / Frontend,Node.js web framework,https://github.com/koajs/koa,To Review,Curated GitHub list
+401,AdonisJS,Developer Tools,Node.js MVC framework,https://github.com/adonisjs/core,To Review,Curated GitHub list
+402,RedwoodJS,Design / Frontend,Full-stack JavaScript framework,https://github.com/redwoodjs/redwood,To Review,Curated GitHub list
+403,Blitz,Design / Frontend,Full-stack React framework,https://github.com/blitz-js/blitz,To Review,Curated GitHub list
+404,Next.js,Design / Frontend,React framework,https://github.com/vercel/next.js,To Review,Curated GitHub list
+405,Remix,Design / Frontend,Full-stack web framework,https://github.com/remix-run/remix,To Review,Curated GitHub list
+406,Astro,Design / Frontend,Content-first web framework,https://github.com/withastro/astro,To Review,Curated GitHub list
+407,Nuxt,Design / Frontend,Vue framework,https://github.com/nuxt/nuxt,To Review,Curated GitHub list
+408,SvelteKit,Design / Frontend,Svelte app framework,https://github.com/sveltejs/kit,To Review,Curated GitHub list
+409,SolidStart,Developer Tools,SolidJS app framework,https://github.com/solidjs/solid-start,To Review,Curated GitHub list
+410,Qwik,Design / Frontend,Resumable web framework,https://github.com/QwikDev/qwik,To Review,Curated GitHub list
+411,Fresh,Design / Frontend,Deno web framework,https://github.com/denoland/fresh,To Review,Curated GitHub list
+412,Angular,Developer Tools,Web app framework,https://github.com/angular/angular,To Review,Curated GitHub list
+413,React,Design / Frontend,UI library,https://github.com/facebook/react,To Review,Curated GitHub list
+414,Vue,Design / Frontend,Progressive JavaScript framework,https://github.com/vuejs/core,To Review,Curated GitHub list
+415,Svelte,Design / Frontend,UI framework,https://github.com/sveltejs/svelte,To Review,Curated GitHub list
+416,Solid,Design / Frontend,Reactive UI library,https://github.com/solidjs/solid,To Review,Curated GitHub list
+417,Preact,Design / Frontend,Fast React alternative,https://github.com/preactjs/preact,To Review,Curated GitHub list
+418,Alpine.js,Design / Frontend,Lightweight JavaScript framework,https://github.com/alpinejs/alpine,To Review,Curated GitHub list
+419,HTMX,Data / Analytics,HTML-first interactivity,https://github.com/bigskysoftware/htmx,To Review,Curated GitHub list
+420,Stimulus,Design / Frontend,Modest JavaScript framework,https://github.com/hotwired/stimulus,To Review,Curated GitHub list
+421,Tailwind CSS,AI / ML,Utility-first CSS framework,https://github.com/tailwindlabs/tailwindcss,To Review,Curated GitHub list
+422,UnoCSS,Design / Frontend,Atomic CSS engine,https://github.com/unocss/unocss,To Review,Curated GitHub list
+423,Panda CSS,Design / Frontend,Build-time CSS-in-JS,https://github.com/chakra-ui/panda,To Review,Curated GitHub list
+424,StyleX,Developer Tools,Styling system from Meta,https://github.com/facebook/stylex,To Review,Curated GitHub list
+425,CSS Modules,Design / Frontend,CSS modules spec/tools,https://github.com/css-modules/css-modules,To Review,Curated GitHub list
+426,Sass,Design / Frontend,CSS extension language,https://github.com/sass/sass,To Review,Curated GitHub list
+427,Less.js,Design / Frontend,CSS preprocessor,https://github.com/less/less.js,To Review,Curated GitHub list
+428,PostCSS,Design / Frontend,CSS transformation tool,https://github.com/postcss/postcss,To Review,Curated GitHub list
+429,Vite,Design / Frontend,Frontend build tool,https://github.com/vitejs/vite,To Review,Curated GitHub list
+430,Rollup,Design / Frontend,JavaScript bundler,https://github.com/rollup/rollup,To Review,Curated GitHub list
+431,Webpack,Design / Frontend,Module bundler,https://github.com/webpack/webpack,To Review,Curated GitHub list
+432,Rspack,Design / Frontend,Rust-based web bundler,https://github.com/web-infra-dev/rspack,To Review,Curated GitHub list
+433,Parcel,Design / Frontend,Zero-config web bundler,https://github.com/parcel-bundler/parcel,To Review,Curated GitHub list
+434,ESBuild,Design / Frontend,Fast JavaScript bundler,https://github.com/evanw/esbuild,To Review,Curated GitHub list
+435,SWC,Developer Tools,Fast JS/TS compiler,https://github.com/swc-project/swc,To Review,Curated GitHub list
+436,Babel,Design / Frontend,JavaScript compiler,https://github.com/babel/babel,To Review,Curated GitHub list
+437,Biome,Data / Analytics,Formatter and linter,https://github.com/biomejs/biome,To Review,Curated GitHub list
+438,ESLint,Design / Frontend,JavaScript linter,https://github.com/eslint/eslint,To Review,Curated GitHub list
+439,Prettier,Developer Tools,Code formatter,https://github.com/prettier/prettier,To Review,Curated GitHub list
+440,Stylelint,Design / Frontend,CSS linter,https://github.com/stylelint/stylelint,To Review,Curated GitHub list
+441,Vitest,Developer Tools,Fast unit testing framework,https://github.com/vitest-dev/vitest,To Review,Curated GitHub list
+442,Jest,Design / Frontend,JavaScript testing framework,https://github.com/jestjs/jest,To Review,Curated GitHub list
+443,Testing Library,Design / Frontend,UI testing utilities,https://github.com/testing-library/react-testing-library,To Review,Curated GitHub list
+444,Mocha,Design / Frontend,JavaScript test framework,https://github.com/mochajs/mocha,To Review,Curated GitHub list
+445,Chai,AI / ML,Assertion library,https://github.com/chaijs/chai,To Review,Curated GitHub list
+446,Ava,Design / Frontend,JavaScript test runner,https://github.com/avajs/ava,To Review,Curated GitHub list
+447,PNPM,Developer Tools,Fast package manager,https://github.com/pnpm/pnpm,To Review,Curated GitHub list
+448,Yarn,Developer Tools,Package manager,https://github.com/yarnpkg/berry,To Review,Curated GitHub list
+449,Bun,Design / Frontend,JavaScript runtime and toolkit,https://github.com/oven-sh/bun,To Review,Curated GitHub list
+450,Deno,Design / Frontend,JavaScript and TypeScript runtime,https://github.com/denoland/deno,To Review,Curated GitHub list
+451,Node.js,Design / Frontend,JavaScript runtime,https://github.com/nodejs/node,To Review,Curated GitHub list
+452,Electron,Developer Tools,Desktop apps with web tech,https://github.com/electron/electron,To Review,Curated GitHub list
+453,Tauri,Developer Tools,Lightweight desktop app framework,https://github.com/tauri-apps/tauri,To Review,Curated GitHub list
+454,Neutralinojs,Developer Tools,Lightweight desktop framework,https://github.com/neutralinojs/neutralinojs,To Review,Curated GitHub list
+455,Flutter,Developer Tools,Cross-platform app framework,https://github.com/flutter/flutter,To Review,Curated GitHub list
+456,React Native,Design / Frontend,Native apps with React,https://github.com/facebook/react-native,To Review,Curated GitHub list
+457,Expo,Design / Frontend,React Native platform,https://github.com/expo/expo,To Review,Curated GitHub list
+458,NativeScript,Data / Analytics,Native mobile apps with JS,https://github.com/NativeScript/NativeScript,To Review,Curated GitHub list
+459,Ionic Framework,Data / Analytics,Hybrid mobile app framework,https://github.com/ionic-team/ionic-framework,To Review,Curated GitHub list
+460,Capacitor,DevOps / Infrastructure,Native runtime for web apps,https://github.com/ionic-team/capacitor,To Review,Curated GitHub list
+461,Kotlin,AI / ML,Cross-platform Kotlin development,https://github.com/JetBrains/kotlin,To Review,Curated GitHub list
+462,Godot,Developer Tools,Open-source game engine,https://github.com/godotengine/godot,To Review,Curated GitHub list
+463,Bevy,Developer Tools,Rust game engine,https://github.com/bevyengine/bevy,To Review,Curated GitHub list
+464,Phaser,Developer Tools,HTML5 game framework,https://github.com/phaserjs/phaser,To Review,Curated GitHub list
+465,PixiJS,Developer Tools,2D rendering engine,https://github.com/pixijs/pixijs,To Review,Curated GitHub list
+466,Three.js,Design / Frontend,3D JavaScript library,https://github.com/mrdoob/three.js,To Review,Curated GitHub list
+467,Babylon.js,Developer Tools,3D engine for web,https://github.com/BabylonJS/Babylon.js,To Review,Curated GitHub list
+468,PlayCanvas Engine,Design / Frontend,Web game engine,https://github.com/playcanvas/engine,To Review,Curated GitHub list
+469,Matter.js,Developer Tools,2D physics engine,https://github.com/liabru/matter-js,To Review,Curated GitHub list
+470,Rapier,Developer Tools,Physics engine,https://github.com/dimforge/rapier,To Review,Curated GitHub list
+471,Fabric.js,AI / ML,Canvas object model,https://github.com/fabricjs/fabric.js,To Review,Curated GitHub list
+472,Konva,Design / Frontend,2D canvas framework,https://github.com/konvajs/konva,To Review,Curated GitHub list
+473,Paper.js,AI / ML,Vector graphics scripting,https://github.com/paperjs/paper.js,To Review,Curated GitHub list
+474,Rough.js,Developer Tools,Sketchy graphics renderer,https://github.com/rough-stuff/rough,To Review,Curated GitHub list
+475,Mermaid,AI / ML,Diagrams from text,https://github.com/mermaid-js/mermaid,To Review,Curated GitHub list
+476,Draw.io,Design / Frontend,Diagramming app,https://github.com/jgraph/drawio,To Review,Curated GitHub list
+477,tldraw,Design / Frontend,Infinite canvas SDK,https://github.com/tldraw/tldraw,To Review,Curated GitHub list
+478,React Flow,Design / Frontend,Node-based UI builder,https://github.com/xyflow/xyflow,To Review,Curated GitHub list
+479,Rete.js,Developer Tools,Visual programming framework,https://github.com/retejs/rete,To Review,Curated GitHub list
+480,LiteGraph.js,Developer Tools,Graph node editor,https://github.com/jagenjo/litegraph.js,To Review,Curated GitHub list
+481,JointJS,Design / Frontend,Diagramming library,https://github.com/clientIO/joint,To Review,Curated GitHub list
+482,Cytoscape.js,Data / Analytics,Graph visualization,https://github.com/cytoscape/cytoscape.js,To Review,Curated GitHub list
+483,D3.js,Data / Analytics,Data visualization library,https://github.com/d3/d3,To Review,Curated GitHub list
+484,Apache ECharts,Design / Frontend,Charting library,https://github.com/apache/echarts,To Review,Curated GitHub list
+485,Chart.js,Design / Frontend,Simple charts,https://github.com/chartjs/Chart.js,To Review,Curated GitHub list
+486,Recharts,Design / Frontend,React charting library,https://github.com/recharts/recharts,To Review,Curated GitHub list
+487,Nivo,Design / Frontend,React data visualization,https://github.com/plouc/nivo,To Review,Curated GitHub list
+488,Victory,Design / Frontend,React chart components,https://github.com/FormidableLabs/victory,To Review,Curated GitHub list
+489,Vega,Data / Analytics,Visualization grammar,https://github.com/vega/vega,To Review,Curated GitHub list
+490,Vega-Lite,Data / Analytics,High-level visualization grammar,https://github.com/vega/vega-lite,To Review,Curated GitHub list
+491,Observable Plot,Design / Frontend,JavaScript plotting library,https://github.com/observablehq/plot,To Review,Curated GitHub list
+492,MapLibre GL JS,Maps / Geo,Open-source map rendering,https://github.com/maplibre/maplibre-gl-js,To Review,Curated GitHub list
+493,Leaflet,Maps / Geo,Interactive maps,https://github.com/Leaflet/Leaflet,To Review,Curated GitHub list
+494,OpenLayers,Maps / Geo,Web mapping library,https://github.com/openlayers/openlayers,To Review,Curated GitHub list
+495,Turf.js,Maps / Geo,Geospatial analysis,https://github.com/Turfjs/turf,To Review,Curated GitHub list
+496,Kepler.gl,Data / Analytics,Large-scale geospatial visualization,https://github.com/keplergl/kepler.gl,To Review,Curated GitHub list
+497,Deck.gl,Data / Analytics,WebGL data visualization,https://github.com/visgl/deck.gl,To Review,Curated GitHub list
+498,CesiumJS,Data / Analytics,3D geospatial visualization,https://github.com/CesiumGS/cesium,To Review,Curated GitHub list
+499,OpenStreetMap iD,Maps / Geo,OSM map editor,https://github.com/openstreetmap/iD,To Review,Curated GitHub list
+500,Maputnik,AI / ML,Vector map style editor,https://github.com/maputnik/editor,To Review,Curated GitHub list
+501,TileServer GL,AI / ML,Vector and raster tile server,https://github.com/maptiler/tileserver-gl,To Review,Curated GitHub list
+502,Martin,AI / ML,Vector tile server,https://github.com/maplibre/martin,To Review,Curated GitHub list
+503,OpenTripPlanner,Developer Tools,Multimodal trip planner,https://github.com/opentripplanner/OpenTripPlanner,To Review,Curated GitHub list
+504,Valhalla,Maps / Geo,Open-source routing engine,https://github.com/valhalla/valhalla,To Review,Curated GitHub list
+505,GraphHopper,Maps / Geo,Routing engine,https://github.com/graphhopper/graphhopper,To Review,Curated GitHub list
+506,OSRM Backend,Maps / Geo,Routing engine,https://github.com/Project-OSRM/osrm-backend,To Review,Curated GitHub list
+507,Pelias,Maps / Geo,Geocoder platform,https://github.com/pelias/pelias,To Review,Curated GitHub list
+508,Nominatim,Maps / Geo,OpenStreetMap geocoder,https://github.com/osm-search/Nominatim,To Review,Curated GitHub list
+509,Photon,Self-hosted / Personal,Geocoder for OpenStreetMap,https://github.com/komoot/photon,To Review,Curated GitHub list
+510,OpenRouteService,Maps / Geo,Routing services,https://github.com/GIScience/openrouteservice,To Review,Curated GitHub list
+511,Organic Maps,Maps / Geo,Offline maps app,https://github.com/organicmaps/organicmaps,To Review,Curated GitHub list
+512,StreetComplete,Developer Tools,OSM contribution app,https://github.com/streetcomplete/StreetComplete,To Review,Curated GitHub list
+513,QGIS,Maps / Geo,Desktop GIS software,https://github.com/qgis/QGIS,To Review,Curated GitHub list
+514,PostGIS,Data / Analytics,Spatial database extender,https://github.com/postgis/postgis,To Review,Curated GitHub list
+515,GeoServer,Data / Analytics,Geospatial data server,https://github.com/geoserver/geoserver,To Review,Curated GitHub list
+516,GDAL,Data / Analytics,Geospatial data abstraction library,https://github.com/OSGeo/gdal,To Review,Curated GitHub list
+517,DuckDB,Data / Analytics,In-process analytical database,https://github.com/duckdb/duckdb,To Review,Curated GitHub list
+518,SQLite,Data / Analytics,Lightweight SQL database mirror,https://github.com/sqlite/sqlite,To Review,Curated GitHub list
+519,PostgreSQL,Data / Analytics,Relational database mirror,https://github.com/postgres/postgres,To Review,Curated GitHub list
+520,MySQL Server,Data / Analytics,Relational database,https://github.com/mysql/mysql-server,To Review,Curated GitHub list
+521,MariaDB Server,Data / Analytics,Open-source database server,https://github.com/MariaDB/server,To Review,Curated GitHub list
+522,ClickHouse,Data / Analytics,Column-oriented database,https://github.com/ClickHouse/ClickHouse,To Review,Curated GitHub list
+523,TimescaleDB,Data / Analytics,Time-series database,https://github.com/timescale/timescaledb,To Review,Curated GitHub list
+524,QuestDB,Data / Analytics,Time-series database,https://github.com/questdb/questdb,To Review,Curated GitHub list
+525,InfluxDB,Data / Analytics,Time-series database,https://github.com/influxdata/influxdb,To Review,Curated GitHub list
+526,Apache Druid,Design / Frontend,Real-time analytics database,https://github.com/apache/druid,To Review,Curated GitHub list
+527,Apache Pinot,Data / Analytics,Realtime OLAP datastore,https://github.com/apache/pinot,To Review,Curated GitHub list
+528,Apache Cassandra,Data / Analytics,Distributed NoSQL database,https://github.com/apache/cassandra,To Review,Curated GitHub list
+529,ScyllaDB,Data / Analytics,High-performance NoSQL database,https://github.com/scylladb/scylladb,To Review,Curated GitHub list
+530,MongoDB,Data / Analytics,Document database,https://github.com/mongodb/mongo,To Review,Curated GitHub list
+531,CouchDB,Data / Analytics,Document-oriented database,https://github.com/apache/couchdb,To Review,Curated GitHub list
+532,ArangoDB,AI / ML,Multi-model database,https://github.com/arangodb/arangodb,To Review,Curated GitHub list
+533,Neo4j,Data / Analytics,Graph database,https://github.com/neo4j/neo4j,To Review,Curated GitHub list
+534,SurrealDB,AI / ML,Multi-model cloud database,https://github.com/surrealdb/surrealdb,To Review,Curated GitHub list
+535,FerretDB,Developer Tools,Open-source MongoDB alternative,https://github.com/FerretDB/FerretDB,To Review,Curated GitHub list
+536,Neon,Data / Analytics,Serverless Postgres platform,https://github.com/neondatabase/neon,To Review,Curated GitHub list
+537,YugabyteDB,Data / Analytics,Distributed SQL database,https://github.com/yugabyte/yugabyte-db,To Review,Curated GitHub list
+538,CockroachDB,Data / Analytics,Distributed SQL database,https://github.com/cockroachdb/cockroach,To Review,Curated GitHub list
+539,TiDB,Data / Analytics,Distributed SQL database,https://github.com/pingcap/tidb,To Review,Curated GitHub list
+540,Vitess,Data / Analytics,Database clustering for MySQL,https://github.com/vitessio/vitess,To Review,Curated GitHub list
+541,Greenplum,Data / Analytics,Analytics database,https://github.com/greenplum-db/gpdb,To Review,Curated GitHub list
+542,Apache Arrow,Data / Analytics,Columnar data format,https://github.com/apache/arrow,To Review,Curated GitHub list
+543,Polars,Data / Analytics,Fast DataFrame library,https://github.com/pola-rs/polars,To Review,Curated GitHub list
+544,Pandas,Data / Analytics,Data analysis library,https://github.com/pandas-dev/pandas,To Review,Curated GitHub list
+545,NumPy,Developer Tools,Scientific computing library,https://github.com/numpy/numpy,To Review,Curated GitHub list
+546,SciPy,Developer Tools,Scientific computing toolkit,https://github.com/scipy/scipy,To Review,Curated GitHub list
+547,Matplotlib,Developer Tools,Plotting library,https://github.com/matplotlib/matplotlib,To Review,Curated GitHub list
+548,Seaborn,Data / Analytics,Statistical data visualization,https://github.com/mwaskom/seaborn,To Review,Curated GitHub list
+549,Plotly.py,Design / Frontend,Interactive charts for Python,https://github.com/plotly/plotly.py,To Review,Curated GitHub list
+550,Streamlit,Data / Analytics,Data apps framework,https://github.com/streamlit/streamlit,To Review,Curated GitHub list
+551,Gradio,Design / Frontend,ML app interface builder,https://github.com/gradio-app/gradio,To Review,Curated GitHub list
+552,Jupyter Notebook,Data / Analytics,Interactive notebooks,https://github.com/jupyter/notebook,To Review,Curated GitHub list
+553,JupyterLab,Developer Tools,Web-based interactive dev environment,https://github.com/jupyterlab/jupyterlab,To Review,Curated GitHub list
+554,Apache Zeppelin,Data / Analytics,Web notebooks for data analytics,https://github.com/apache/zeppelin,To Review,Curated GitHub list
+555,Evidence,Data / Analytics,BI as code,https://github.com/evidence-dev/evidence,To Review,Curated GitHub list
+556,Lightdash,Data / Analytics,BI for dbt,https://github.com/lightdash/lightdash,To Review,Curated GitHub list
+557,Cube,Data / Analytics,Semantic layer for analytics,https://github.com/cube-js/cube,To Review,Curated GitHub list
+558,Rill,Data / Analytics,Operational BI,https://github.com/rilldata/rill,To Review,Curated GitHub list
+559,Grafana Tempo,Developer Tools,Distributed tracing backend,https://github.com/grafana/tempo,To Review,Curated GitHub list
+560,Elasticsearch,Data / Analytics,Search and analytics engine,https://github.com/elastic/elasticsearch,To Review,Curated GitHub list
+561,Apache Solr,Developer Tools,Search platform,https://github.com/apache/solr,To Review,Curated GitHub list
+562,Vespa,Developer Tools,Search and recommendation engine,https://github.com/vespa-engine/vespa,To Review,Curated GitHub list
+563,ZincSearch,Data / Analytics,Lightweight search engine,https://github.com/zincsearch/zincsearch,To Review,Curated GitHub list
+564,Quickwit,Design / Frontend,Search engine for logs and traces,https://github.com/quickwit-oss/quickwit,To Review,Curated GitHub list
+565,Manticore Search,Data / Analytics,Search database,https://github.com/manticoresoftware/manticoresearch,To Review,Curated GitHub list
+566,Tantivy,Design / Frontend,Full-text search engine library,https://github.com/quickwit-oss/tantivy,To Review,Curated GitHub list
+567,Typesense DocSearch Scraper,Productivity / Collaboration,Docs search scraper,https://github.com/typesense/typesense-docsearch-scraper,To Review,Curated GitHub list
+568,Algolia DocSearch,Productivity / Collaboration,Documentation search crawler,https://github.com/algolia/docsearch,To Review,Curated GitHub list
+569,Weaviate,AI / ML,AI-native vector database,https://github.com/weaviate/weaviate,To Review,Curated GitHub list
+570,LanceDB,AI / ML,Vector database for AI,https://github.com/lancedb/lancedb,To Review,Curated GitHub list
+571,Marqo,AI / ML,Vector search engine,https://github.com/marqo-ai/marqo,To Review,Curated GitHub list
+572,txtai,AI / ML,Embeddings database and workflows,https://github.com/neuml/txtai,To Review,Curated GitHub list
+573,Haystack,AI / ML,LLM app framework,https://github.com/deepset-ai/haystack,To Review,Curated GitHub list
+574,Rasa,AI / ML,Conversational AI framework,https://github.com/RasaHQ/rasa,To Review,Curated GitHub list
+575,Botpress,AI / ML,AI agent platform,https://github.com/botpress/botpress,To Review,Curated GitHub list
+576,Chatbot UI,AI / ML,ChatGPT-style UI,https://github.com/mckaywrigley/chatbot-ui,To Review,Curated GitHub list
+577,LibreChat,AI / ML,ChatGPT-style AI chat platform,https://github.com/danny-avila/LibreChat,To Review,Curated GitHub list
+578,NextChat,AI / ML,ChatGPT web UI,https://github.com/ChatGPTNextWeb/NextChat,To Review,Curated GitHub list
+579,Lobe Chat,AI / ML,AI chat interface,https://github.com/lobehub/lobe-chat,To Review,Curated GitHub list
+580,Chatbox,AI / ML,Desktop AI client,https://github.com/Bin-Huang/chatbox,To Review,Curated GitHub list
+581,GPT Researcher,AI / ML,Autonomous research agent,https://github.com/assafelovic/gpt-researcher,To Review,Curated GitHub list
+582,AutoGPT,AI / ML,Autonomous AI agent,https://github.com/Significant-Gravitas/AutoGPT,To Review,Curated GitHub list
+583,BabyAGI,AI / ML,Task-driven autonomous agent,https://github.com/yoheinakajima/babyagi,To Review,Curated GitHub list
+584,CrewAI,AI / ML,Multi-agent automation framework,https://github.com/crewAIInc/crewAI,To Review,Curated GitHub list
+585,AutoGen,AI / ML,Multi-agent AI framework,https://github.com/microsoft/autogen,To Review,Curated GitHub list
+586,LangGraph,AI / ML,Agent workflow framework,https://github.com/langchain-ai/langgraph,To Review,Curated GitHub list
+587,Open Interpreter,Business / Commerce,Natural language computer control,https://github.com/OpenInterpreter/open-interpreter,To Review,Curated GitHub list
+588,SWE-agent,AI / ML,AI software engineering agent,https://github.com/SWE-agent/SWE-agent,To Review,Curated GitHub list
+589,OpenHands,AI / ML,AI software development agents,https://github.com/All-Hands-AI/OpenHands,To Review,Curated GitHub list
+590,Aider,AI / ML,AI pair programming in terminal,https://github.com/Aider-AI/aider,To Review,Curated GitHub list
+591,Continue,AI / ML,Open-source AI code assistant,https://github.com/continuedev/continue,To Review,Curated GitHub list
+592,Tabby,AI / ML,Self-hosted AI coding assistant,https://github.com/TabbyML/tabby,To Review,Curated GitHub list
+593,CodeGeeX,AI / ML,AI coding assistant,https://github.com/THUDM/CodeGeeX,To Review,Curated GitHub list
+594,GPT4All,AI / ML,Local AI chat app,https://github.com/nomic-ai/gpt4all,To Review,Curated GitHub list
+595,llama.cpp,AI / ML,Run LLMs locally in C/C++,https://github.com/ggerganov/llama.cpp,To Review,Curated GitHub list
+596,vLLM,AI / ML,Fast LLM inference engine,https://github.com/vllm-project/vllm,To Review,Curated GitHub list
+597,Text Generation WebUI,AI / ML,Local LLM web UI,https://github.com/oobabooga/text-generation-webui,To Review,Curated GitHub list
+598,TensorRT-LLM,AI / ML,LLM inference optimization,https://github.com/NVIDIA/TensorRT-LLM,To Review,Curated GitHub list
+599,Transformers,AI / ML,ML model library,https://github.com/huggingface/transformers,To Review,Curated GitHub list
+600,Diffusers,AI / ML,Diffusion models library,https://github.com/huggingface/diffusers,To Review,Curated GitHub list
