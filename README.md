@@ -1,5 +1,8 @@
 # 600 Open Source Projects
 
+[![Twitter](https://img.shields.io/badge/Twitter-@noohelhadedy-1DA1F2?logo=x&logoColor=white)](https://x.com/noohelhadedy)
+[![Instagram](https://img.shields.io/badge/Instagram-@noahelhadedy-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/noahelhadedy/)
+
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
 **Total:** 600 projects across 10 categories.
