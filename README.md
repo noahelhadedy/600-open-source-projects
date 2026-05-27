@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 600 projects across 10 categories.
+**Total:** 601 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -13,7 +13,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 
 ## Categories
 
-- [Developer Tools](#developer-tools) — 120
+- [Developer Tools](#developer-tools) — 121
 - [Data / Analytics](#data--analytics) — 99
 - [Design / Frontend](#design--frontend) — 93
 - [AI / ML](#ai--ml) — 86
@@ -148,6 +148,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 559 | [Grafana Tempo](https://github.com/grafana/tempo) | Distributed tracing backend |
 | 561 | [Apache Solr](https://github.com/apache/solr) | Search platform |
 | 562 | [Vespa](https://github.com/vespa-engine/vespa) | Search and recommendation engine |
+| 601 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Fast line-oriented search tool. |
 
 ## Data / Analytics
 
