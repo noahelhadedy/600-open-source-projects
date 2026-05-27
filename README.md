@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 602 projects across 10 categories.
+**Total:** 603 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -15,7 +15,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 
 - [Developer Tools](#developer-tools) — 121
 - [Data / Analytics](#data--analytics) — 100
-- [Design / Frontend](#design--frontend) — 93
+- [Design / Frontend](#design--frontend) — 94
 - [AI / ML](#ai--ml) — 86
 - [DevOps / Infrastructure](#devops--infrastructure) — 80
 - [Productivity / Collaboration](#productivity--collaboration) — 37
@@ -352,6 +352,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 551 | [Gradio](https://github.com/gradio-app/gradio) | ML app interface builder |
 | 564 | [Quickwit](https://github.com/quickwit-oss/quickwit) | Search engine for logs and traces |
 | 566 | [Tantivy](https://github.com/quickwit-oss/tantivy) | Full-text search engine library |
+| 603 | [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn diagrams. |
 
 ## AI / ML
 
