@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 604 projects across 10 categories.
+**Total:** 605 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -17,7 +17,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 - [Data / Analytics](#data--analytics) — 100
 - [Design / Frontend](#design--frontend) — 94
 - [AI / ML](#ai--ml) — 87
-- [DevOps / Infrastructure](#devops--infrastructure) — 80
+- [DevOps / Infrastructure](#devops--infrastructure) — 81
 - [Productivity / Collaboration](#productivity--collaboration) — 37
 - [Business / Commerce](#business--commerce) — 32
 - [Self-hosted / Personal](#self-hosted--personal) — 23
@@ -530,6 +530,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 371 | [Apollo Server](https://github.com/apollographql/apollo-server) | GraphQL server |
 | 386 | [Sanic](https://github.com/sanic-org/sanic) | Async Python web server/framework |
 | 460 | [Capacitor](https://github.com/ionic-team/capacitor) | Native runtime for web apps |
+| 605 | [rclone](https://github.com/rclone/rclone) | Command-line cloud storage sync tool. |
 
 ## Productivity / Collaboration
 
