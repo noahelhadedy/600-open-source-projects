@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 609 projects across 10 categories.
+**Total:** 610 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -22,7 +22,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 - [Business / Commerce](#business--commerce) — 33
 - [Self-hosted / Personal](#self-hosted--personal) — 24
 - [Security / Auth](#security--auth) — 17
-- [Maps / Geo](#maps--geo) — 14
+- [Maps / Geo](#maps--geo) — 15
 
 ## Developer Tools
 
@@ -682,6 +682,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 510 | [OpenRouteService](https://github.com/GIScience/openrouteservice) | Routing services |
 | 511 | [Organic Maps](https://github.com/organicmaps/organicmaps) | Offline maps app |
 | 513 | [QGIS](https://github.com/qgis/QGIS) | Desktop GIS software |
+| 610 | [MapServer](https://github.com/MapServer/MapServer) | Web mapping server for publishing spatial data. |
 
 ## Columns (CSV)
 
