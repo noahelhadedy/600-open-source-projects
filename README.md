@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 606 projects across 10 categories.
+**Total:** 607 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -19,7 +19,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 - [AI / ML](#ai--ml) — 87
 - [DevOps / Infrastructure](#devops--infrastructure) — 81
 - [Productivity / Collaboration](#productivity--collaboration) — 38
-- [Business / Commerce](#business--commerce) — 32
+- [Business / Commerce](#business--commerce) — 33
 - [Self-hosted / Personal](#self-hosted--personal) — 23
 - [Security / Auth](#security--auth) — 16
 - [Maps / Geo](#maps--geo) — 14
@@ -611,6 +611,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 233 | [Monica](https://github.com/monicahq/monica) | Personal CRM |
 | 235 | [Formbricks](https://github.com/formbricks/formbricks) | Open-source survey and feedback platform |
 | 587 | [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Natural language computer control |
+| 607 | [WooCommerce](https://github.com/woocommerce/woocommerce) | E-commerce platform built on WordPress. |
 
 ## Self-hosted / Personal
 
