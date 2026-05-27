@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 601 projects across 10 categories.
+**Total:** 602 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -14,7 +14,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 ## Categories
 
 - [Developer Tools](#developer-tools) — 121
-- [Data / Analytics](#data--analytics) — 99
+- [Data / Analytics](#data--analytics) — 100
 - [Design / Frontend](#design--frontend) — 93
 - [AI / ML](#ai--ml) — 86
 - [DevOps / Infrastructure](#devops--infrastructure) — 80
@@ -253,6 +253,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 560 | [Elasticsearch](https://github.com/elastic/elasticsearch) | Search and analytics engine |
 | 563 | [ZincSearch](https://github.com/zincsearch/zincsearch) | Lightweight search engine |
 | 565 | [Manticore Search](https://github.com/manticoresoftware/manticoresearch) | Search database |
+| 602 | [Apache Kafka](https://github.com/apache/kafka) | Distributed event streaming platform. |
 
 ## Design / Frontend
 
