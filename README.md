@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 608 projects across 10 categories.
+**Total:** 609 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -21,7 +21,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 - [Productivity / Collaboration](#productivity--collaboration) — 38
 - [Business / Commerce](#business--commerce) — 33
 - [Self-hosted / Personal](#self-hosted--personal) — 24
-- [Security / Auth](#security--auth) — 16
+- [Security / Auth](#security--auth) — 17
 - [Maps / Geo](#maps--geo) — 14
 
 ## Developer Tools
@@ -662,6 +662,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 274 | [Logto](https://github.com/logto-io/logto) | Auth0 alternative |
 | 275 | [SuperTokens](https://github.com/supertokens/supertokens-core) | Open-source user authentication |
 | 281 | [Firezone](https://github.com/firezone/firezone) | Secure remote access platform |
+| 609 | [Fail2ban](https://github.com/fail2ban/fail2ban) | Protect servers from brute-force attacks. |
 
 ## Maps / Geo
 
