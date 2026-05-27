@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 603 projects across 10 categories.
+**Total:** 604 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -16,7 +16,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 - [Developer Tools](#developer-tools) — 121
 - [Data / Analytics](#data--analytics) — 100
 - [Design / Frontend](#design--frontend) — 94
-- [AI / ML](#ai--ml) — 86
+- [AI / ML](#ai--ml) — 87
 - [DevOps / Infrastructure](#devops--infrastructure) — 80
 - [Productivity / Collaboration](#productivity--collaboration) — 37
 - [Business / Commerce](#business--commerce) — 32
@@ -444,6 +444,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 598 | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | LLM inference optimization |
 | 599 | [Transformers](https://github.com/huggingface/transformers) | ML model library |
 | 600 | [Diffusers](https://github.com/huggingface/diffusers) | Diffusion models library |
+| 604 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | Machine learning library for Python. |
 
 ## DevOps / Infrastructure
 
