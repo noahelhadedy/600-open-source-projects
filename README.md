@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 607 projects across 10 categories.
+**Total:** 608 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -20,7 +20,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 - [DevOps / Infrastructure](#devops--infrastructure) — 81
 - [Productivity / Collaboration](#productivity--collaboration) — 38
 - [Business / Commerce](#business--commerce) — 33
-- [Self-hosted / Personal](#self-hosted--personal) — 23
+- [Self-hosted / Personal](#self-hosted--personal) — 24
 - [Security / Auth](#security--auth) — 16
 - [Maps / Geo](#maps--geo) — 14
 
@@ -640,6 +640,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 226 | [RSSHub](https://github.com/DIYgod/RSSHub) | Generate RSS feeds for almost anything |
 | 229 | [VERT](https://github.com/VERT-sh/VERT) | Local file converter powered by WebAssembly |
 | 509 | [Photon](https://github.com/komoot/photon) | Geocoder for OpenStreetMap |
+| 608 | [Kodi](https://github.com/xbmc/xbmc) | Open-source home theater software. |
 
 ## Security / Auth
 
