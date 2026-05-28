@@ -5,7 +5,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 600 projects across 10 categories.
+**Total:** 610 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -13,16 +13,16 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 
 ## Categories
 
-- [Developer Tools](#developer-tools) — 120
-- [Data / Analytics](#data--analytics) — 99
-- [Design / Frontend](#design--frontend) — 93
-- [AI / ML](#ai--ml) — 86
-- [DevOps / Infrastructure](#devops--infrastructure) — 80
-- [Productivity / Collaboration](#productivity--collaboration) — 37
-- [Business / Commerce](#business--commerce) — 32
-- [Self-hosted / Personal](#self-hosted--personal) — 23
-- [Security / Auth](#security--auth) — 16
-- [Maps / Geo](#maps--geo) — 14
+- [Developer Tools](#developer-tools) — 121
+- [Data / Analytics](#data--analytics) — 100
+- [Design / Frontend](#design--frontend) — 94
+- [AI / ML](#ai--ml) — 87
+- [DevOps / Infrastructure](#devops--infrastructure) — 81
+- [Productivity / Collaboration](#productivity--collaboration) — 38
+- [Business / Commerce](#business--commerce) — 33
+- [Self-hosted / Personal](#self-hosted--personal) — 24
+- [Security / Auth](#security--auth) — 17
+- [Maps / Geo](#maps--geo) — 15
 
 ## Developer Tools
 
@@ -148,6 +148,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 559 | [Grafana Tempo](https://github.com/grafana/tempo) | Distributed tracing backend |
 | 561 | [Apache Solr](https://github.com/apache/solr) | Search platform |
 | 562 | [Vespa](https://github.com/vespa-engine/vespa) | Search and recommendation engine |
+| 601 | [ripgrep](https://github.com/BurntSushi/ripgrep) | Fast line-oriented search tool. |
 
 ## Data / Analytics
 
@@ -252,6 +253,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 560 | [Elasticsearch](https://github.com/elastic/elasticsearch) | Search and analytics engine |
 | 563 | [ZincSearch](https://github.com/zincsearch/zincsearch) | Lightweight search engine |
 | 565 | [Manticore Search](https://github.com/manticoresoftware/manticoresearch) | Search database |
+| 602 | [Apache Kafka](https://github.com/apache/kafka) | Distributed event streaming platform. |
 
 ## Design / Frontend
 
@@ -350,6 +352,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 551 | [Gradio](https://github.com/gradio-app/gradio) | ML app interface builder |
 | 564 | [Quickwit](https://github.com/quickwit-oss/quickwit) | Search engine for logs and traces |
 | 566 | [Tantivy](https://github.com/quickwit-oss/tantivy) | Full-text search engine library |
+| 603 | [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn diagrams. |
 
 ## AI / ML
 
@@ -441,6 +444,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 598 | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | LLM inference optimization |
 | 599 | [Transformers](https://github.com/huggingface/transformers) | ML model library |
 | 600 | [Diffusers](https://github.com/huggingface/diffusers) | Diffusion models library |
+| 604 | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | Machine learning library for Python. |
 
 ## DevOps / Infrastructure
 
@@ -526,6 +530,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 371 | [Apollo Server](https://github.com/apollographql/apollo-server) | GraphQL server |
 | 386 | [Sanic](https://github.com/sanic-org/sanic) | Async Python web server/framework |
 | 460 | [Capacitor](https://github.com/ionic-team/capacitor) | Native runtime for web apps |
+| 605 | [rclone](https://github.com/rclone/rclone) | Command-line cloud storage sync tool. |
 
 ## Productivity / Collaboration
 
@@ -568,6 +573,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 232 | [Documize](https://github.com/documize/community) | Lightweight documentation and knowledge base |
 | 567 | [Typesense DocSearch Scraper](https://github.com/typesense/typesense-docsearch-scraper) | Docs search scraper |
 | 568 | [Algolia DocSearch](https://github.com/algolia/docsearch) | Documentation search crawler |
+| 606 | [Standard Notes](https://github.com/standardnotes/app) | End-to-end encrypted note-taking application. |
 
 ## Business / Commerce
 
@@ -605,6 +611,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 233 | [Monica](https://github.com/monicahq/monica) | Personal CRM |
 | 235 | [Formbricks](https://github.com/formbricks/formbricks) | Open-source survey and feedback platform |
 | 587 | [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) | Natural language computer control |
+| 607 | [WooCommerce](https://github.com/woocommerce/woocommerce) | E-commerce platform built on WordPress. |
 
 ## Self-hosted / Personal
 
@@ -633,6 +640,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 226 | [RSSHub](https://github.com/DIYgod/RSSHub) | Generate RSS feeds for almost anything |
 | 229 | [VERT](https://github.com/VERT-sh/VERT) | Local file converter powered by WebAssembly |
 | 509 | [Photon](https://github.com/komoot/photon) | Geocoder for OpenStreetMap |
+| 608 | [Kodi](https://github.com/xbmc/xbmc) | Open-source home theater software. |
 
 ## Security / Auth
 
@@ -654,6 +662,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 274 | [Logto](https://github.com/logto-io/logto) | Auth0 alternative |
 | 275 | [SuperTokens](https://github.com/supertokens/supertokens-core) | Open-source user authentication |
 | 281 | [Firezone](https://github.com/firezone/firezone) | Secure remote access platform |
+| 609 | [Fail2ban](https://github.com/fail2ban/fail2ban) | Protect servers from brute-force attacks. |
 
 ## Maps / Geo
 
@@ -673,6 +682,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 510 | [OpenRouteService](https://github.com/GIScience/openrouteservice) | Routing services |
 | 511 | [Organic Maps](https://github.com/organicmaps/organicmaps) | Offline maps app |
 | 513 | [QGIS](https://github.com/qgis/QGIS) | Desktop GIS software |
+| 610 | [MapServer](https://github.com/MapServer/MapServer) | Web mapping server for publishing spatial data. |
 
 ## Columns (CSV)
 
