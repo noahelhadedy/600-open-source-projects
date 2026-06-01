@@ -697,3 +697,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | `GitHub` | Link to the project's GitHub repo |
 | `Status` | Personal review status |
 | `Source` | Where the entry was collected from |
+
+---
+
+Maintained by [Noah Elhadedy](https://noahelhadedy.com/).
