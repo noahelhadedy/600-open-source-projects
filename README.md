@@ -355,6 +355,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 564 | [Quickwit](https://github.com/quickwit-oss/quickwit) | Search engine for logs and traces |
 | 566 | [Tantivy](https://github.com/quickwit-oss/tantivy) | Full-text search engine library |
 | 603 | [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn diagrams. |
+| 611 | [Markstream](https://github.com/Simon-He95/markstream-vue) | Streaming Markdown renderer for AI chat across major web frameworks. |
 
 ## AI / ML
 
