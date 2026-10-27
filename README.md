@@ -7,7 +7,7 @@
 
 A curated list of 600+ open source projects across categories like productivity, dev tools, AI/ML, design, data, and more.
 
-**Total:** 610 projects across 10 categories.
+**Total:** 611 projects across 10 categories.
 
 The full list is also available as [`600-open-source-projects-notion.csv`](600-open-source-projects-notion.csv) for importing into Notion or any spreadsheet tool.
 
@@ -20,7 +20,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 - [Design / Frontend](#design--frontend) — 94
 - [AI / ML](#ai--ml) — 87
 - [DevOps / Infrastructure](#devops--infrastructure) — 81
-- [Productivity / Collaboration](#productivity--collaboration) — 38
+- [Productivity / Collaboration](#productivity--collaboration) — 39
 - [Business / Commerce](#business--commerce) — 33
 - [Self-hosted / Personal](#self-hosted--personal) — 24
 - [Security / Auth](#security--auth) — 17
@@ -576,6 +576,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 567 | [Typesense DocSearch Scraper](https://github.com/typesense/typesense-docsearch-scraper) | Docs search scraper |
 | 568 | [Algolia DocSearch](https://github.com/algolia/docsearch) | Documentation search crawler |
 | 606 | [Standard Notes](https://github.com/standardnotes/app) | End-to-end encrypted note-taking application. |
+| 611 | [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) | macOS multi-monitor window and Space layout restorer. |
 
 ## Business / Commerce
 
