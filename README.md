@@ -533,6 +533,7 @@ The full list is also available as [`600-open-source-projects-notion.csv`](600-o
 | 386 | [Sanic](https://github.com/sanic-org/sanic) | Async Python web server/framework |
 | 460 | [Capacitor](https://github.com/ionic-team/capacitor) | Native runtime for web apps |
 | 605 | [rclone](https://github.com/rclone/rclone) | Command-line cloud storage sync tool. |
+| 611 | [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Self-hosted website uptime monitoring with TLS and domain expiry alerts. |
 
 ## Productivity / Collaboration
 
